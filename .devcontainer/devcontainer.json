@@ -1,0 +1,19 @@
+{
+  "name": "Python Practice Environment",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.10",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "python",
+        "python.testing.pytestEnabled": true,
+        "python.testing.unittestEnabled": false,
+        "python.testing.nosetestsEnabled": false
+      },
+      "extensions": [
+        "dmytrochobotar.codedrills",
+        "ms-python.python"
+      ]
+    }
+  },
+  "onCreateCommand": "pip install --upgrade pip --break-system-packages && pip install pytest==6.2.5 --break-system-packages"
+}
