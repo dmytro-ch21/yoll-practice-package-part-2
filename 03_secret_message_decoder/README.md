@@ -34,7 +34,7 @@ Throughout history, simple cryptographic techniques have been used to hide messa
 ### Example 1:
 
 ```
-Enter the encoded message: H9=tXhXRoce@u:Tl={q5lB3*no})mU .z[eW+di^oQ4UBr&-uvl zfVdlPte!Oe;2
+Enter the encoded message: HH17GekrZblLSrvlxRpWoo[Df C*WrWZb>CoKp=&r(kpul1$7Sd:t6r!C4Lc
 Enter the step size: 5
 Decoded Message: Hello World!
 ```
@@ -89,11 +89,11 @@ Decoded Message: Talk is cheap. Show me the code. — Linus Torvalds
 
 | Encoded Input                                                                                        | Step Size | Decoded Output                                      |
 | ---------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- |
-| `H9=tXhXRoce@u:Tl={q5lB3*no})mU .z[eW+di^oQ4UBr&-uvl zfVdlPte!Oe;2`                                  | 5         | `Hhello World!`                                     |
+| `HH17GekrZblLSrvlxRpWoo[Df C*WrWZb>CoKp=&r(kpul1$7Sd:t6r!C4Lc`                                  | 5         | `Hhello World!`                                     |
 | `BNb1e1bIlF2tix)Gei~*v0BNe=!N }{Ii2RqnU]t tnPybRhoLH6uWi2rK:?sezXemeslvC[f3,}.^)V`                   | 4         | `Believe in yourself.`                              |
 | `Wf=hEBa52t~@ -[gL(ek:tQas6C $HwHieM[tNHt6ee%;rrc jLa2ksvg N}iC2t@j yvdRBrc7i?)eq3sp}?xf`            | 3         | `What gets wetter as it dries?`                     |
 | `Tza likJ ?iFsQ :c?hxeJaMp-.} sSWhwo4wP Ympe! _t3hMe} Nc.o;die@.& 9—U ALIi9n0uGsn 9Tmonrtv]a ludGs,` | 2         | `Talk is cheap. Show me the code. — Linus Torvalds` |
 
 ### Message for you! - use your script to decode it 🚀
 
-> `E>h0Ovoo#sevJ^erVpvmy6Rr( RCIQl%MbBiD;qDnBZpWeeo(9 %&0KocnOSfzA+( $)h.c^@djo_lV)d8WYheu)A6 TggXbUq!Au1O?>i!xwwl4S4CdM2CRsu][S {;Ysy{Gupot712uQ}%frLnp@ ^KX<f BhDu#{:bt5RD~uo>8.rLK~YeKvKA.aFt? x(_3MegGtidzgGsXdErt~>m{a&w]ykmUK5e&;w;s]#z^ a>m%h-r1ue.GM%lD*DnpTAX@ aQ>ZyJop<oaD*&uUWw6 8_DZlq$xde6A7SaM=*Arj=-vntb[[.Ni Z pSb&K4d^ue_p2meK&]+p4}Ru %IP^cAvD0oR;QId$-[ri^;KvnDZQ-g5poN ^@xGaI$4+n5V *dhVMY @p7=egNi8n7?;8j=d!4os).fy&Hc[ oR+&t5aaDh{Q.ne^XrT >K1PjgpZYoP18luz(J^r+cRDnIsn0e)8gSyAi4n!aOSy`
+> `E>h0Ovoo#sevJ^erVpvmy6Rr( RCIQl%MbBiD;qDnBZpWeeo(9 %&0KocnOSfzA+( $)h.c^@djo_lV)d8WYheu)A6 TggXbUq!Au1O?>i!xwwl4S4CdM2CRsu][S {;Ysy{Gupot712uQ}%frLnp@ ^KX<f BhDu#{:bt5RD~uo>8.rLK~YeKvKA.aFt? x(_3MegGtidzgGsXdErt~>m{a&w]ykmUK5e&;w;s]#z^ a>m%h-r1ue.GM%lD*DnpTAX@ aQ>ZyJop<oaD*&uUWw6 8_DZlq$xde6A7SaM=*Arj=-vntb[[.Ni Z pSb&K4d^ue_p2meK&]+p4}Ru %IP^cAvD0oR;QId$-[ri^;KvnDZQ-g5poN ^@xGaI$4+n5V *dhVMY @p7=egNi8n7?;8j=d!4os).fy&Hc[ oR+&t5aaDh{Q.ne^XrT >K1PjgpZYoP18luz(J^r+cRDnIsn0e)8gSyAi4n!aOSy` - step 4

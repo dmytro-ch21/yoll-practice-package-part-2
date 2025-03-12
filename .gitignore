@@ -54,3 +54,9 @@ venv.bak/
 
 # CodeDrills specific
 reports/
+
+
+# specific packages
+07_*/*
+08_*/*
+09_*/*

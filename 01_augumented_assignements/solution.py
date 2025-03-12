@@ -2,6 +2,7 @@
 def main():
     balance = 5000
     print("================== BALANCE ====================", end="\n\n")
+    print("")
     print(f"Current Balance: ${balance:.1f}")
     # write your code here with 4 space intentation
 

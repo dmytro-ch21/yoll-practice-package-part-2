@@ -11,7 +11,7 @@ This exercise formats a raw 10-digit phone number into a standard U.S. format: `
 2. Validate that the input contains exactly 10 digits. If not, display an error message and exit the program.
     ```text
     Error: Please enter exactly 10 digits.
-       No spaces, special characters and alphabetical characters.
+    No spaces, special characters and alphabetical characters.
     ```
    
 3. Use string slicing to extract the area code, first three digits, and last four digits.
@@ -29,14 +29,14 @@ Formatted Phone Number: (123) 456-7890
 ```text
 Enter a 10-digit phone number: 12321
 Error: Please enter exactly 10 digits.
-       No spaces, special characters and alphabetical characters.
+No spaces, special characters and alphabetical characters.
 ```
 
 ##### Nagative Test: Number contains letters, spaces or special characters
 ```text
 Enter a 10-digit phone number: 123321121a
 Error: Please enter exactly 10 digits.
-       No spaces, special characters and alphabetical characters.
+No spaces, special characters and alphabetical characters.
 ```
 
 > #### 😉 Hints:
