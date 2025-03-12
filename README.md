@@ -42,10 +42,11 @@ pytest test_solution.py -v
 4. **04_email_validator**: Validate email addresses using string techniques
 5. **05_text_message_shortener**: Create a program that shortens text messages for SMS
 6. **06_playlist_manager**: Manage a music playlist with list operations
-7. **07_movie_recommendation**: Build a simple movie recommendation system
-8. **08_rgb_color_mixer**: Mix RGB color values using numerical operations
-9. **09_student_grade_tracker**: Track and calculate student grades
+  >‼️ The three tasks below will be added in a fraction of time 😉
+7. <s>**07_movie_recommendation**: Build a simple movie recommendation system</s>
+8. <s>**08_rgb_color_mixer**: Mix RGB color values using numerical operations</s>
+9. <s>**09_student_grade_tracker**: Track and calculate student grades</s>
 
-## Happy Coding!
+## Happy Coding! 🚀
 
 Remember, practice makes perfect. Don't hesitate to experiment beyond the requirements of each exercise to deepen your understanding.
